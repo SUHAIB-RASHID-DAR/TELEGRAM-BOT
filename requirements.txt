@@ -1,0 +1,3 @@
+Pyrogram
+TgCrypto
+pyromod==1.5
